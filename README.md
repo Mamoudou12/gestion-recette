@@ -1,5 +1,31 @@
-# Vue 3 + Vite
+# Gestion de Recettes
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Description
+Cette application permet de gérer des recettes de cuisine avec Vue.js 3, Pinia, et Bootstrap.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Fonctionnalités
+1. Ajout de recettes
+2. Modification de recettes
+3. Suppression de recettes
+4. Affichage de la liste des recettes
+
+## Installation
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/Mamoudou12/gestion-recette.git
+   ```
+   ```bash
+   cd gestion-recette
+   ```
+
+2. Installez les dépendances :
+```bash
+npm install
+```
+
+3. Lancez l'application en mode développement :
+
+```bash
+npm run dev
+```
+   
